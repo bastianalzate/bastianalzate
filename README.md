@@ -33,7 +33,8 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&theme=midnight-purple&show_icons=true&locale=en" alt="bastianalzate" /></p>
     
-    <h2>Repos</h2>
+
+<h2>My Repos</h2>
 <a href = "https://github.com/bastianalzate/bastianalzate"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bastianalzate&repo=bastianalzate&theme=midnight-purple" /></a> 
     
 Credits: [Bastian](https://github.com/bastianalzate)
