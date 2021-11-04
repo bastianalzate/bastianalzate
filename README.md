@@ -33,9 +33,8 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&theme=midnight-purple&show_icons=true&locale=en" alt="bastianalzate" /></p>
     
-<details open> 
- <summary><b>Featured Repos</b></summary>
+    <h2>Repos</h2>
 <p align = "center">
-<a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=tokyonight" /></a> <a href = "https://github.com/pr2tik1/sketch-recognition"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=sketch-recognition&theme=tokyonight" /></a> </p>
+<a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=tokyonight" /></a> 
     
 Credits: [Bastian](https://github.com/bastianalzate)
