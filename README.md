@@ -30,4 +30,5 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastianalzate&show_icons=true&locale=en&layout=compact" alt="bastianalzate" /></p>
 
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=pratik-kale20&theme=midnight-purple&include_all_commits=true&count_private=true)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&show_icons=true&locale=en" alt="bastianalzate" /></p>
