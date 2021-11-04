@@ -31,7 +31,6 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&show_icons=true&locale=en" alt="bastianalzate" /></p>
 
-Quieres saber mas sobre mi?
-Email: bastianmurilloalzate@gmail.com
+
 
 
