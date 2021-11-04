@@ -4,7 +4,15 @@
 <h1 align="center">Hola 👋, Soy Sebastian Murillo Alzate</h1>
 <h3 align="center">Full Stack Developer con enfoque al Frontend soy de Colombia</h3>
 
-I am a software developer currently working at [Antstack Technologies](https://antstack.io). I like learning and experimenting with new technologies as they come. I try to build things that will save me from manual work. I am an open-source enthusiast and a dark mode everything person. I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
+Estudie en el Bootcamp Intensivo soy Henry. En el cual vi mas de 900 horas de código. Algunas de mis tecnologías son ReactJS, Redux, Express, NodeJS, Postgres, Sequelize, SASS, Bootstrap, Figma, Trello, Scrum, Git, GitHub. 
+Soy muy curioso y autodidacta me encanta el poder aprender de personas y poder compartir lo que se con otras personas mas.
+
+Anteriormente me desempeñaba como técnico en mantenimiento y reparación de computadoras, pero quise dar el salto cuando conocí el Desarrollo de Software. La sola idea de poder crear cosas de la nada, solo con mis manos y líneas de código me hizo enamorar de esta profesión.
+
+Actualmente he desarrollado varios proyectos tanto para mi cursada en el Bootcamp soy Henry, como proyectos personales los cuales he ido haciendo para mejorar mis conocimientos.
+
+Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional como personalmente.
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastianalzate&label=Profile%20views&color=0e75b6&style=flat" alt="bastianalzate" /> </p>
 
