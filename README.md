@@ -31,4 +31,4 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastianalzate&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="bastianalzate" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&show_icons=true&locale=en" alt="bastianalzate" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&theme=midnight-purple&show_icons=true&locale=en" alt="bastianalzate" /></p>
