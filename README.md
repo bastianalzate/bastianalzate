@@ -1,4 +1,4 @@
-[![Vishwas Navada K's Personal Site](https://on.notist.cloud/slides/deck1986/large-4.png)
+![Vishwas Navada K's Personal Site](https://on.notist.cloud/slides/deck1986/large-4.png)
 
 
 <h1 align="center">Hola 👋, Soy Sebastian Murillo Alzate</h1>
