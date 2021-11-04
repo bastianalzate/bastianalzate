@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Sebastian Murillo Alzate</h1>
 <h3 align="center">Full Stack Developer con enfoque al Frontend soy de Colombia</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bastianalzate&label=Profile%20views&color=0e75b6&style=flat" alt="bastianalzate" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&show_icons=true&locale=en" alt="bastianalzate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bastianalzate&" alt="bastianalzate" /></p>
-
