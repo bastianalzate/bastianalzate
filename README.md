@@ -34,7 +34,6 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&theme=midnight-purple&show_icons=true&locale=en" alt="bastianalzate" /></p>
     
     <h2>Repos</h2>
-<p align = "center">
-<a href = "https://github.com/pr2tik1/pr2tik1"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=pr2tik1&repo=pr2tik1&theme=tokyonight" /></a> 
+<a href = "https://github.com/bastianalzate/bastianalzate"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bastianalzate&repo=bastianalzate&theme=midnight-purple" /></a> 
     
 Credits: [Bastian](https://github.com/bastianalzate)
