@@ -1,4 +1,21 @@
-<img src="https://github.com/reddyprasade/reddyprasade.github.io/blob/master/img/Profile/img2.png" alt="Reddy Prasad" align="left" width="600" height="600">
+![Vishwas Navada K's Personal Site](https://on.notist.cloud/slides/deck1986/large-4.png)
+
+
+# <h1 align="center">Hola,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Soy  <a href="#">Sebastian<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
+<p align="center">
+    <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
+</p>
+ 
+<h3 align="center">Full Stack Developer con enfoque al Frontend soy de Colombia</h3>
+
+Estudie en el Bootcamp Intensivo soy Henry. En el cual vi mas de 900 horas de código. Algunas de mis tecnologías son ReactJS, Redux, Express, NodeJS, Postgres, Sequelize, SASS, Bootstrap, Figma, Trello, Scrum, Git, GitHub. 
+Soy muy curioso y autodidacta me encanta el poder aprender de personas y poder compartir lo que se con otras personas mas.
+
+Anteriormente me desempeñaba como técnico en mantenimiento y reparación de computadoras, pero quise dar el salto cuando conocí el Desarrollo de Software. La sola idea de poder crear cosas de la nada, solo con mis manos y líneas de código me hizo enamorar de esta profesión.
+
+Actualmente he desarrollado varios proyectos tanto para mi cursada en el Bootcamp soy Henry, como proyectos personales los cuales he ido haciendo para mejorar mis conocimientos.
+
+Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional como personalmente.
 
 ![](https://komarev.com/ghpvc/?username=reddyprasade&style=flat-square&color=EA4AAA)
 
