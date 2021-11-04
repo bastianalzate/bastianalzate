@@ -1,7 +1,11 @@
 ![Vishwas Navada K's Personal Site](https://on.notist.cloud/slides/deck1986/large-4.png)
 
 
-<h1 align="center">Hola 👋, Soy Sebastian Murillo Alzate</h1>
+# <h1 align="center">Hola,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Soy  <a href="https://tonynguyenit18.github.io/">Tony<a> <img width="80" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/happy-face.gif"></h1>
+<p align="center">
+    <img width="200" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
+</p>
+ 
 <h3 align="center">Full Stack Developer con enfoque al Frontend soy de Colombia</h3>
 
 Estudie en el Bootcamp Intensivo soy Henry. En el cual vi mas de 900 horas de código. Algunas de mis tecnologías son ReactJS, Redux, Express, NodeJS, Postgres, Sequelize, SASS, Bootstrap, Figma, Trello, Scrum, Git, GitHub. 
@@ -26,4 +30,8 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastianalzate&show_icons=true&locale=en&layout=compact" alt="bastianalzate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastianalzate&show_icons=true&locale=en" alt="bastianalzate" /></p>
+
+Quieres saber mas sobre mi?
+Email: bastianmurilloalzate@gmail.com
+
 
