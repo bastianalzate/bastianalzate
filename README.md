@@ -37,4 +37,4 @@ Siempre estoy en constante aprendizaje para ser cada vez mejor tanto profesional
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">My Repos</h2>
 <a href = "https://github.com/bastianalzate/bastianalzate"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=bastianalzate&repo=bastianalzate&theme=midnight-purple" /></a> 
     
-Credits: [Bastian](https://github.com/bastianalzate)
+Credits: [BastianAlzate](https://github.com/bastianalzate)
